@@ -1,8 +1,5 @@
-# metro-simulation
 
-
-# Proje Başlığı: 
-Metro Simülasyonu
+# Proje Başlığı:  Metro Simülasyonu
 
 ## Kısa Açıklama:
 Bu projede bana verilmiş olan Metro Simülasyon kodunun eksik kısımlarını tamamladım ve yeni özellikler ekledim. Eklediğim özellikler şunlardır:
